@@ -50,4 +50,6 @@ endmodule
     $display("I=%b,S=%b,Yo=%b,Y1=%b",I,S,Y0,Y1);
 endmodule
 
+Verilog HDL code for demux using dataflow, gatelevel and behavioral modelling
+
   
