@@ -161,3 +161,5 @@ initial begin
     $finish;
   end
 endmodule
+
+Verilog code for demux 1x2 and 1x4 using conditional,case and if statements
