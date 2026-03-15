@@ -44,3 +44,5 @@ module mux_2input_tb;
     $monitor("S=%b,A=%b,B=%b,Y=%b",S,A,B,Y);
 endmodule
 
+Verilog HDL code for mux using gatelevel, behavioral and dataflow modelling
+
