@@ -135,3 +135,5 @@ module mux8x1_tb;
     $monitor("sel=%b, out=%b, in[0]=%b, in[1]=%b ,in[2]=%b ,in[3]=%b, in[4]=%b, in[5]=%b, in[6]=%b, in[7]=%b", sel, out,in[0], in[1], in[2], in[3],in[4], in[5], in[6], in[7]);
   end
 endmodule
+
+Verilog HDL code for mux using procedural statements
